@@ -14,3 +14,11 @@ Route::get('/salones',[VenueController::class, 'index']);
 
 //crear salones
 Route::post('/salones',[VenueController::class, 'store']);
+//crear salones
+Route::post('/salones',[VenueController::class, 'store']);
+//crear salones
+Route::post('/salones',[VenueController::class, 'store']);
+//crear salones
+Route::post('/salones',[VenueController::class, 'store']);
+//crear salones
+Route::post('/salones',[VenueController::class, 'store']);
